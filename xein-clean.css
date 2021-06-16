@@ -16,15 +16,7 @@ Modifed by NekoMeow
 
 #app-mount,
 #app-mount .chat-3bRxxu {
-  --background-color: transparent;
-  --background-brightness: 100%;
-  --background-contrast: 100%;
-  --background-saturation: 100%;
-  --background-invert: 0%;
-  --background-grayscale: 0%;
-  --background-sepia: 0%;
-  --background-blur: 0px;
-  --background-shading: 50%;
+	background-color: transparent;
 }
 #app-mount .children-19S4PO:after {
 	display: none;

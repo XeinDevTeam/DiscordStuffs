@@ -1,0 +1,2 @@
+# DiscordStuffs
+My Discord Settings

@@ -14,28 +14,10 @@ Powered by DiscordSelectors v0.2.7
 Modifed by NekoMeow
 */
 
-/* 注解到DEFAULT SETTINGS前就可以去取消透明 
-#app-mount,
-#app-mount .chat-3bRxxu {
-	background-color: transparent;
-  --background-brightness: 100%;
-  --background-contrast: 100%;
-  --background-saturation: 100%;
-  --background-invert: 0%;
-  --background-grayscale: 0%;
-  --background-sepia: 0%;
-  --background-blur: 0px;
-  --background-shading: 50%;
-}
-#app-mount .children-19S4PO:after {
-	display: none;
-}
-*/
-
 /* DEFAULT SETTINGS */
 :root {
   /*主题色*/
-  --main-color: #2780e6;
+  --main-color: #00aaaa;
   /*浮空色*/
   --hover-color: #1e63b3;
   /*发送成功色*/
@@ -6897,6 +6879,18 @@ textarea::-webkit-scrollbar {
 }
 .container-UC8Ug1 .arrow-hynWUl {
   filter: brightness(0) invert(1);
+}
+
+/* Create A Server */
+.container-1CE3eW {
+  background-color: rgb(21, 21, 21);
+}
+.container-1CE3eW .title-3w8xhj,
+.container-1CE3eW .title-LqAd9K,
+.container-1CE3eW .title-Z_XiOC,
+.container-1CE3eW .title-XLSR79,
+.inputWrapper-31_8H8 .inputDefault-_djjkz {
+  color: rgba(255, 255, 255, 0.87);
 }
 
 /* create a server input wrapper - temp cause idk where else it affects */

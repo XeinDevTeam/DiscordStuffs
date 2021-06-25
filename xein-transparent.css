@@ -5403,7 +5403,8 @@ textarea::-webkit-scrollbar {
   mask: linear-gradient(to bottom, #000, transparent 93%);
 }
 .userPopout-xaxa6l .headerTop-2cWpdB,
-.userPopout-xaxa6l .aboutMeSection---MkQa {
+.userPopout-xaxa6l .aboutMeSection---MkQa,
+.userPopout-xaxa6l .aboutMeSection-1Fw5Ia {
   background-color: transparent;
 }
 .userPopout-xaxa6l .mobileIndicator-29f8Xh {
@@ -5421,6 +5422,7 @@ textarea::-webkit-scrollbar {
   height: 25px;
   background-size: 25px;
 }
+.userPopout-xaxa6l .bodyInnerWrapper-26fQXj,
 .userPopout-xaxa6l .body-3HBlXn {
   background: var(--user-popout-overlay);
 }

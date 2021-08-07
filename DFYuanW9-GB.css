@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'DFYuanW9-GB';
+    src: local('DFYuanW9-GB'), local('DFYuanW9'),
+        url('https://xeindiscord.pages.dev/DFYuanW9-GB.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

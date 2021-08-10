@@ -12,6 +12,8 @@ Modifed by NekoMeow
 
 /* Fonts */
 @import url(https://fonts.googleapis.com/css2?family=Noto%20Sans);
+@import url(https://fonts.googleapis.com/css2?family=Noto%20Sans%20SC);
+@import url(https://fonts.googleapis.com/css2?family=Noto%20Sans%20TC);
 @import url(https://fonts.googleapis.com/css2?family=Varela%20Round);
 
 /* DEFAULT SETTINGS */
@@ -29,7 +31,7 @@ Modifed by NekoMeow
   --text-muted:  rgb(114, 118, 125);
 
   /*字体*/
-  --main-font: Varela Round, Noto Sans, Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
+  --main-font: Varela Round, Noto Sans, Noto Sans SC, Noto Sans TC, Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
   --code-font: Consolas, Liberation Mono, Menlo, Courier, monospace;
   --font-display: var(--main-font);
 

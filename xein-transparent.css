@@ -75,29 +75,29 @@ Modifed by NekoMeow
 }
 
 /* 标题 Windows & Mac */
-.typeWindows-1za-n7 > .wordmark-2iDDfm:before {
+.typeWindows-2-g3UY>.wordmark-2u86JB:before{
   content: "Xein";
 }
-.typeWindows-1za-n7 > .wordmark-2iDDfm:after {
-  content: "v1.2";
+.typeWindows-2-g3UY>.wordmark-2u86JB:after{
+  content: "v1.3";
 }
 
-.typeMacOS-3EmCyP:before {
+.typeMacOS-3V4xXE:before{
   content: "Xein";
 }
-.typeMacOS-3EmCyP:after {
-  content: "1.2";
+.typeMacOS-3V4xXE:after{
+  content: "1.3";
 }
 
 /* 频道列表最下面 */
-.container-3baos1:before {
+.container-YkUktl:before{
   content: "Xein";
 }
-.container-3baos1:after {
-  content: "v1.2";
+.container-YkUktl:after{
+  content: "v1.3";
 }
 
 /* TAGGED USERS */
-.contents-2mQqc9 > img[src*="329603741491789824"] ~ .header-23xsNx > .headerText-3Uvj1Y > .username-1A8OIy::after {
+.contents-2MsGLg>img[src*="329603741491789824"]~.header-2jRmjb>.headerText-2z4IhQ>.username-h_Y3Us::after{
   content: "Xein (AKA NekoMeow)";
 }

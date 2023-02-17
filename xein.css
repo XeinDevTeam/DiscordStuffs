@@ -69,15 +69,15 @@ Modifed by NekoMeow
 }
 
 /* 标题 Windows & Mac */
-.typeWindows-2-g3UY>.wordmark-2u86JB:before,
+.typeWindows-2-g3UY > .wordmark-2u86JB:before,
 .typeMacOS-3V4xXE:before,
-.container-YkUktl:before {
+.theme-dark .container-YkUktl:before {
   content: "Xein";
 }
-.typeWindows-2-g3UY>.wordmark-2u86JB:after,
+.typeWindows-2-g3UY > .wordmark-2u86JB:after,
 .typeMacOS-3V4xXE:after,
-.container-YkUktl:after {
-  content: "v1.4";
+.theme-dark .container-YkUktl:after {
+  content: "v1.5";
 }
 
 /* TAGGED USERS */

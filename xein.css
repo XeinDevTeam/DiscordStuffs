@@ -2,8 +2,7 @@
 
 /*
 ThemeFixer v1.0.3 by DevilBro
-ClearVision v6.1.1 by CV team
-Powered by DiscordSelectors v0.2.7
+ClearVision v6.3 by CV team
 Modifed by NekoMeow
 */
 
@@ -69,15 +68,15 @@ Modifed by NekoMeow
 }
 
 /* 标题 Windows & Mac */
-.typeWindows-2-g3UY > .wordmark-2u86JB:before,
+.typeWindows-3ILlhq>.wordmark-3wYFg6:before,
 .typeMacOS-3V4xXE:before,
-.theme-dark .container-YkUktl:before {
+.theme-dark .container-1CH86i:before {
   content: "Xein";
 }
-.typeWindows-2-g3UY > .wordmark-2u86JB:after,
+.typeWindows-3ILlhq>.wordmark-3wYFg6:after,
 .typeMacOS-3V4xXE:after,
-.theme-dark .container-YkUktl:after {
-  content: "v1.5";
+.theme-dark .container-1CH86i:after {
+  content: "v1.6";
 }
 
 /* TAGGED USERS */
@@ -166,4 +165,8 @@ border-top: none;
 
 .header-1RJoTb {
 box-shadow: none;
+}
+
+.container-3wLKDe {
+  background: none;
 }

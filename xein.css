@@ -122,25 +122,6 @@ Modifed by NekoMeow
   -webkit-mask-composite: xor;
 }
 
-/* FLOATING */
-.panels-3wFtMD,    /* Bottom Left User */
-.chat-2ZfjoI,      /* Full Layout */
-.container-1NXEtd, /* Channel List */
-.members-3WRCEx    /* Member List */
-{
-  margin: 5px;
-}
-
-.panels-3wFtMD,    /* Bottom Left User */
-.container-1NXEtd, /* Channel List */
-.channelTextArea-1VQBuV,
-.members-3WRCEx    /* Member List */
-{
-  border: 2px solid var(--main-color);
-  border-radius: 20px;
-  box-shadow: 0 0 3px 1px var(--main-color);
-}
-
 .container-YkUktl>.flex-3BkGQD,.container-1zzFcN>.flex-3BkGQD{
   background:transparent;
   border-radius:15px

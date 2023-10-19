@@ -143,7 +143,7 @@ Modifed by NekoMeow
   background: none !important;
 }
 .container-2vWgD2 {
-  background: rgba(0, 0, 0, 0.4) !important;
+  background: none !important;
 }
 
 .panels-3wFtMD, .container-2NLBJg, .container-1CH86i, .panel-ufc1-o, .activityPanel-9icbyU, #vc-spotify-player {
@@ -151,20 +151,20 @@ Modifed by NekoMeow
 }
 
 .container-3s2w-i {
-background: none;
+  background: none;
 }
 
 .resizeHandle-2F4Beb {
-background: var(--main-color);
+  background: var(--main-color);
 }
 
 .container-3YcgdM {
-background: none;
-border-top: none;
+  background: none;
+  border-top: none;
 }
 
 .header-1RJoTb {
-box-shadow: none;
+  box-shadow: none;
 }
 
 .container-3wLKDe {

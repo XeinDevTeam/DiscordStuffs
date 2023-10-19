@@ -136,3 +136,34 @@ Modifed by NekoMeow
 .channelTextArea-1VQBuV {
   background: transparent;
 }
+
+.chatContent-3KubbW {
+  background: none !important;
+}
+.chat-9g_3Xj, .chatContent-2O4SXb, .member-2iQhp7, .members-2y1nVj {
+  background: none !important;
+}
+.container-2vWgD2 {
+  background: rgba(0, 0, 0, 0.4) !important;
+}
+
+.panels-3wFtMD, .container-2NLBJg, .container-1CH86i, .panel-ufc1-o, .activityPanel-9icbyU, #vc-spotify-player {
+  background: none !important;
+}
+
+.container-3s2w-i {
+background: none;
+}
+
+.resizeHandle-2F4Beb {
+background: var(--main-color);
+}
+
+.container-3YcgdM {
+background: none;
+border-top: none;
+}
+
+.header-1RJoTb {
+box-shadow: none;
+}

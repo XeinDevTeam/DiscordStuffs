@@ -68,19 +68,19 @@ Modifed by NekoMeow
 }
 
 /* 标题 Windows & Mac */
-.typeWindows-3ILlhq>.wordmark-3wYFg6:before,
-.typeMacOS-3V4xXE:before,
-.theme-dark .container-1CH86i:before {
+.typeWindows__5fa63>.wordmark__0d178:before,
+.typeMacOS__496b0:before,
+.theme-dark .container-container_ca50b9:before {
   content: "Xein";
 }
-.typeWindows-3ILlhq>.wordmark-3wYFg6:after,
-.typeMacOS-3V4xXE:after,
-.theme-dark .container-1CH86i:after {
+.typeWindows__5fa63>.wordmark__0d178:after,
+.typeMacOS__496b0:after,
+.theme-dark .container_ca50b9:after {
   content: "v1.6";
 }
 
 /* TAGGED USERS */
-.contents-2MsGLg>img[src*="329603741491789824"]~.header-2jRmjb>.headerText-2z4IhQ>.username-h_Y3Us::after{
+.contents_f41bb2>img[src*="329603741491789824"]~.header__39b23>.headerText_f47574>.username_d30d99::after{
   content: "Xein (AKA NekoMeow)";
 }
 
@@ -121,52 +121,17 @@ Modifed by NekoMeow
   -webkit-mask-composite: xor;
 }
 
-.container-YkUktl>.flex-3BkGQD,.container-1zzFcN>.flex-3BkGQD{
+.container-YkUktl>.flex-3BkGQD,.container-1zzFcN>.flex-3BkGQD {
   background:transparent;
   border-radius:15px
 }
 
-.members-3WRCEx    /* Member List */
-{
+/* Member List */
+.members-3WRCEx {
   background: transparent;
   margin-bottom: 12px;
 }
 
 .channelTextArea-1VQBuV {
   background: transparent;
-}
-
-.chatContent-3KubbW {
-  background: none !important;
-}
-.chat-9g_3Xj, .chatContent-2O4SXb, .member-2iQhp7, .members-2y1nVj {
-  background: none !important;
-}
-.container-2vWgD2 {
-  background: none !important;
-}
-
-.panels-3wFtMD, .container-2NLBJg, .container-1CH86i, .panel-ufc1-o, .activityPanel-9icbyU, #vc-spotify-player {
-  background: none !important;
-}
-
-.container-3s2w-i {
-  background: none;
-}
-
-.resizeHandle-2F4Beb {
-  background: var(--main-color);
-}
-
-.container-3YcgdM {
-  background: none;
-  border-top: none;
-}
-
-.header-1RJoTb {
-  box-shadow: none;
-}
-
-.container-3wLKDe {
-  background: none;
 }

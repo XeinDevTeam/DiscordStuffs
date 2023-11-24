@@ -70,7 +70,7 @@ Modifed by NekoMeow
 /* 标题 Windows & Mac */
 .typeWindows__5fa63>.wordmark__0d178:before,
 .typeMacOS__496b0:before,
-.theme-dark .container-container_ca50b9:before {
+.theme-dark .container_ca50b9:before {
   content: "Xein";
 }
 .typeWindows__5fa63>.wordmark__0d178:after,

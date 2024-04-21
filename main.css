@@ -8,3 +8,8 @@
 @import url(https://fonts.googleapis.com/css2?family=Noto%20Sans%20SC);
 @import url(https://fonts.googleapis.com/css2?family=Noto%20Sans%20TC);
 @import url(https://fonts.googleapis.com/css2?family=Varela%20Round);
+
+/* Import Some Good snippets by community */
+@import url(https://discord.xein.xyz/snippets/dm-icon-grid.css);
+@import url(https://discord.xein.xyz/snippets/compress-bot-msg.css);
+@import url(https://discord.xein.xyz/snippets/transparent-discord-loading.css);

@@ -10,6 +10,10 @@
 @import url(https://fonts.googleapis.com/css2?family=Varela%20Round);
 
 /* Import Some Good snippets by community */
-@import url(https://discord.xein.xyz/snippets/dm-icon-grid.css);
-@import url(https://discord.xein.xyz/snippets/compress-bot-msg.css);
-@import url(https://discord.xein.xyz/snippets/transparent-discord-loading.css);
+@import url(./snippets/dm-icon-grid.css);
+@import url(./snippets/compress-bot-msg.css);
+@import url(./snippets/transparent-discord-loading.css);
+@import url(./snippets/NSFWChannelRecolor.css);
+@import url(./snippets/PrivateChannelRecolor.css);
+@import url(./snippets/emoji-btn.css);
+@import url(./snippets/viggy-loader.css);

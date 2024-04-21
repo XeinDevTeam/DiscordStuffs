@@ -1,0 +1,15 @@
+/* https://discord.com/channels/1015060230222131221/1028106818368589824/1224558120735346708 */
+
+:root{
+    --customEmojiIconURL: url(https://cdn.discordapp.com/emojis/1217110775601172591.gif?size=240&quality=lossless);
+    --customEmojiIconMask: url(https://cdn.discordapp.com/emojis/1217110775601172591.gif?size=240&quality=lossless);
+}
+
+/* Custom Emoji Button */
+[class*=emojiButton] [class*=spriteColored]{
+  background: var(--customEmojiIconURL) center/contain no-repeat;
+}
+  
+[class*=emojiButton] [class*=spriteGreyscale]{
+  mask: var(--customEmojiIconMask) center/contain no-repeat;
+}

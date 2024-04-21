@@ -7,14 +7,7 @@ Powered by DiscordSelectors v0.2.7
 Modifed by NekoMeow
 */
 
-/* Main CSS by CV Team */
-@import url(https://discord.xein.xyz/cv.css);
-
-/* Fonts */
-@import url(https://fonts.googleapis.com/css2?family=Noto%20Sans);
-@import url(https://fonts.googleapis.com/css2?family=Noto%20Sans%20SC);
-@import url(https://fonts.googleapis.com/css2?family=Noto%20Sans%20TC);
-@import url(https://fonts.googleapis.com/css2?family=Varela%20Round);
+@import url(https://discord.xein.xyz/main.css);
 
 body,
 #app-mount,
@@ -107,29 +100,19 @@ body,
 }
 
 /* 标题 Windows & Mac */
-.typeWindows-2-g3UY>.wordmark-2u86JB:before{
+.typeMacOS_cacc59:before,
+.typeWindows_e41dab>.wordmark__5b8c9:before
+{
   content: "Xein";
-}
-.typeWindows-2-g3UY>.wordmark-2u86JB:after{
-  content: "v1.3";
 }
 
-.typeMacOS-3V4xXE:before{
-  content: "Xein";
-}
-.typeMacOS-3V4xXE:after{
-  content: "1.3";
-}
-
-/* 频道列表最下面 */
-.container-YkUktl:before{
-  content: "Xein";
-}
-.container-YkUktl:after{
-  content: "v1.3";
+.typeMacOS_cacc59:after,
+.typeWindows_e41dab>.wordmark__5b8c9:after
+{
+  content: "v1.7";
 }
 
 /* TAGGED USERS */
-.contents-2MsGLg>img[src*="329603741491789824"]~.header-2jRmjb>.headerText-2z4IhQ>.username-h_Y3Us::after{
+.contents_d3ae0d>img[src*="329603741491789824"]~.header__6a14d>.headerText_bd68ec>.username__0b0e7::after,.messageContent_abea64>img[src*="194151269399527425"]~.header__6a14d>.headerText_bd68ec>.username__0b0e7::after{
   content: "Xein (AKA NekoMeow)";
 }

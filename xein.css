@@ -2,18 +2,11 @@
 
 /*
 ThemeFixer v1.0.3 by DevilBro
-ClearVision v6.3 by CV team
+ClearVision by CV team
 Modifed by NekoMeow
 */
 
-/* Main CSS by CV Team */
-@import url(https://discord.xein.xyz/cv.css);
-
-/* Fonts */
-@import url(https://fonts.googleapis.com/css2?family=Noto%20Sans);
-@import url(https://fonts.googleapis.com/css2?family=Noto%20Sans%20SC);
-@import url(https://fonts.googleapis.com/css2?family=Noto%20Sans%20TC);
-@import url(https://fonts.googleapis.com/css2?family=Varela%20Round);
+@import url(https://discord.xein.xyz/main.css);
 
 /* DEFAULT SETTINGS */
 :root {
@@ -68,70 +61,19 @@ Modifed by NekoMeow
 }
 
 /* 标题 Windows & Mac */
-.typeWindows__5fa63>.wordmark__0d178:before,
-.typeMacOS__496b0:before,
-.theme-dark .container_ca50b9:before {
+.typeMacOS_cacc59:before,
+.typeWindows_e41dab>.wordmark__5b8c9:before
+{
   content: "Xein";
 }
-.typeWindows__5fa63>.wordmark__0d178:after,
-.typeMacOS__496b0:after,
-.theme-dark .container_ca50b9:after {
-  content: "v1.6";
+
+.typeMacOS_cacc59:after,
+.typeWindows_e41dab>.wordmark__5b8c9:after
+{
+  content: "v1.7";
 }
 
 /* TAGGED USERS */
-.contents_f41bb2>img[src*="329603741491789824"]~.header__39b23>.headerText_f47574>.username_d30d99::after{
+.contents_d3ae0d>img[src*="329603741491789824"]~.header__6a14d>.headerText_bd68ec>.username__0b0e7::after,.messageContent_abea64>img[src*="194151269399527425"]~.header__6a14d>.headerText_bd68ec>.username__0b0e7::after{
   content: "Xein (AKA NekoMeow)";
-}
-
-/* USER POPOUT */
-.userPopout-2j1gM4 {
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-}
-
-.userPopoutOuter-3AVBmJ {
-  --profile-role-pill-background-color: transparent;
-  --profile-role-pill-border-color: #ffffff33;
-}
-
-/* ROLE COLOR BORDER */
-.role-2TIOKu {
-  transform: translate(0);
-  border: 0;
-  border-radius: var(--roles-roundness-calc);
-}
-.role-2TIOKu .roleRemoveIcon-387wKV {
-  margin: 0;
-  left: unset;
-  transform: translate(50%,-50%);
-}
-.role-2TIOKu .roleRemoveButton-17oXnT {position: static}
-.role-2TIOKu .roleCircle-3K9O3d:before {
-  content: '';
-  top: 0;left: 0;
-  z-index: -1;
-  width: 100%;
-  height: 100%;
-  box-sizing: border-box;
-  position: absolute;
-  background: inherit;
-  border-radius: var(--roles-roundness-calc);
-  border: 2px solid transparent;
-  -webkit-mask: linear-gradient(#000 0 0) padding-box, linear-gradient(#000 0 0);
-  -webkit-mask-composite: xor;
-}
-
-.container-YkUktl>.flex-3BkGQD,.container-1zzFcN>.flex-3BkGQD {
-  background:transparent;
-  border-radius:15px
-}
-
-/* Member List */
-.members-3WRCEx {
-  background: transparent;
-  margin-bottom: 12px;
-}
-
-.channelTextArea-1VQBuV {
-  background: transparent;
 }

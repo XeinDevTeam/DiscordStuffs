@@ -61,14 +61,14 @@ Modifed by NekoMeow
 }
 
 /* 标题 Windows & Mac */
-.typeMacOS_cacc59:before,
-.typeWindows_e41dab>.wordmark__5b8c9:before
+.typeMacOS_a934d8:before,
+.typeWindows_a934d8>.wordmark_a934d8:before
 {
   content: "Xein";
 }
 
-.typeMacOS_cacc59:after,
-.typeWindows_e41dab>.wordmark__5b8c9:after
+.typeMacOS_a934d8:after,
+.typeWindows_a934d8>.wordmark_a934d8:after
 {
   content: "v1.7";
 }

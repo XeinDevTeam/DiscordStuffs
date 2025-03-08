@@ -62,7 +62,7 @@ Modifed by NekoMeow
 
 /* 标题 Windows & Mac */
 .typeMacOS__421ed:before,
-typeWindows__421ed > .wordmark__421ed:before
+.typeWindows__421ed>.wordmark__421ed:before
 {
   content: "Xein";
 }
